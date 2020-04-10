@@ -1,0 +1,4 @@
+01|{"id": 1, "data": "Alabama"}
+02|{"id": 2, "data": "Alaska"}
+03|{"id": 3, "data": "Arizona"}
+04|{"id": 4, "data": "Arkansas"}
